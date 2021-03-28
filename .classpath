@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/bee/eclipse-workspace/VirtualAssistant/libraries/commonio.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bee/eclipse-workspace/VirtualAssistant/libraries/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bee/eclipse-workspace/VirtualAssistant/libraries/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bee/eclipse-workspace/VirtualAssistant/libraries/fontbox-2.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bee/eclipse-workspace/VirtualAssistant/libraries/itextpdf-5.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bee/eclipse-workspace/VirtualAssistant/libraries/jsoup.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bee/eclipse-workspace/VirtualAssistant/libraries/org.apache.poi.xwpf.converter.pdf-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bee/eclipse-workspace/VirtualAssistant/libraries/pdfbox-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bee/eclipse-workspace/VirtualAssistant/libraries/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bee/eclipse-workspace/VirtualAssistant/libraries/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bee/eclipse-workspace/VirtualAssistant/libraries/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bee/eclipse-workspace/VirtualAssistant/libraries/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bee/eclipse-workspace/VirtualAssistant/libraries/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bee/eclipse-workspace/VirtualAssistant/libraries/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bee/eclipse-workspace/VirtualAssistant/libraries/xmlbeans-2.5.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
